@@ -1,0 +1,29 @@
+src-git packages https://github.com/coolsnowwolf/packages
+src-git luci https://github.com/coolsnowwolf/luci
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+
+#vm-tools
+#src-git vmtools https://github.com/srchack/custom-packages
+
+#serverchan
+#src-git serverchan https://github.com/tty228/luci-app-serverchan
+
+#addpackages
+src-git addpackages https://github.com/kenzok8/openwrt-packages
+
+#helloworld
+src-git helloworld https://github.com/fw876/helloworld
+
+#passwall
+src-git passwall https://github.com/xiaorouji/openwrt-passwall
+
+#vssr
+#src-git vssr https://github.com/jerrykuku/luci-app-vssr
+
+
+#src-git video https://github.com/openwrt/video.git
+#src-git targets https://github.com/openwrt/targets.git
+#src-git oldpackages http://git.openwrt.org/packages.git
+#src-link custom /usr/src/openwrt/custom-feed
+#src-git helloworld https://github.com/fw876/helloworld
